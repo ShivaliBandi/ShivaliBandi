@@ -3,9 +3,6 @@
 -Love to explore new things...😄 
 
 -There is no end for learning....🌱
-
--👯looking to collaborate... 
-
 <!--
 **ShivaliBandi/ShivaliBandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
