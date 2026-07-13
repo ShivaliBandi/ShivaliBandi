@@ -21,7 +21,7 @@ preparing for kernel/embedded/storage engineering roles.
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
 
 ## GitHub Stats
-![Shivali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![Shivali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaliBandi&show_icons=true&theme=dark&hide_border=true)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
