@@ -21,7 +21,12 @@ preparing for kernel/embedded/storage engineering roles.
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
 
 ## GitHub Stats
-![Shivali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaliBandi&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Shivali's Stats](https://github-readme-stats.vercel.app/api?username=ShivaliBandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaliBandi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShivaliBandi&theme=tokyonight&hide_border=true)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivalibandi/)
