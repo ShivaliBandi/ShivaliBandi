@@ -1,6 +1,6 @@
 # Hi, I'm Shivali 👋
 
-**Systems & Kernel Engineer** — 5 years building 
+**Systems & Kernel Engineer** — 5 years building
 Linux storage platforms, VFS layers, and RHEL components.
 
 ## What I Work On
@@ -10,7 +10,7 @@ Linux storage platforms, VFS layers, and RHEL components.
 - 🛠 **Debugging** — GDB, Valgrind, perf, ftrace
 
 ## Current Focus
-Building depth in Linux kernel development and 
+Building depth in Linux kernel development and
 preparing for kernel/embedded/storage engineering roles.
 
 ## Tech Stack
@@ -21,7 +21,7 @@ preparing for kernel/embedded/storage engineering roles.
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
 
 ## GitHub Stats
-![Shivali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaliBandi&show_icons=true&theme=dark&hide_border=true)
+![Shivali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaliBandi&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivalibandi/)
