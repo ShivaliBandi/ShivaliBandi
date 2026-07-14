@@ -4,10 +4,10 @@
 Linux storage platforms, VFS layers, and RHEL components.
 
 ## What I Work On
-- 🔧 **C / Linux Systems** — VFS, iSCSI, block layer, system calls
+- 🔧 **C / Linux Systems** — VFS, block layer, system calls
 - 🐧 **Kernel Space** — Loadable modules, character device drivers
-- 💾 **Storage** — iSCSI, SAN, RHEL platform engineering
-- 🛠 **Debugging** — GDB, Valgrind, perf, ftrace
+- 🛠 **Debugging** — GDB
+- 📂 **Mini Tools** — cat, grep, shell — built from raw syscalls
 
 ## Current Focus
 Building depth in Linux kernel development and
