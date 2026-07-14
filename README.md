@@ -23,6 +23,8 @@ preparing for kernel/embedded/storage engineering roles.
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShivaliBandi&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/...)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaliBandi&theme=tokyonight)
+
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivalibandi/)
