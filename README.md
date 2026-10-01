@@ -26,5 +26,9 @@ preparing for kernel/embedded/storage engineering roles.
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivaliBandi&theme=tokyonight)
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ShivaliBandi?theme=dark&font=Baloo%202&ext=activity&border=0)
+
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivalibandi/)
