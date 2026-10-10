@@ -29,6 +29,7 @@ preparing for kernel/embedded/storage engineering roles.
 ## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ShivaliBandi?theme=dark&font=Baloo%202&ext=activity&border=0)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/ShivaliBandi?theme=dark&font=Baloo%202&ext=heatmap&border=0)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivalibandi/)
